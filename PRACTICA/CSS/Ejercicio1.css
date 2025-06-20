@@ -1,0 +1,14 @@
+body {
+    background: linear-gradient(100deg, #fbc2eb 61%, #a6c1ee );
+    
+}
+
+
+p{
+ align-items: center;
+ text-align: center;
+ margin-left: auto;
+ margin-right: auto;
+ font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+ font-size: 30px;
+}

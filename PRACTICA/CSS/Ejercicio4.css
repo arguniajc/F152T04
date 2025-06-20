@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.contenedor{
+    width: 70%;
+    height: 500px;
+    border: 2px solid rgb(212, 122, 122);
+    margin: 80% auto;
+}
+
+body{
+    background-color: aqua;
+}
+.posicion{
+    width: 150px;
+    height: 150px;
+    font-size: 1.3rem;
+    line-height: 100px;
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+.estatica{
+    position: static;
+    background-color: red;
+}
+
+.relativa{
+    position: relative;
+    background-color: blue;
+    top: 100px;
+    left: 200px;
+
+}
+
+.absoluto{
+    background-color: rgb(101, 212, 240);
+     top: 200px;
+    left: 300px;
+    border: 2px solid black;
+}
+
+.fijo{
+    background-color: rgb(196, 12, 156);
+    position: fixed;
+     top: 200px;
+    left: 300px;
+}
