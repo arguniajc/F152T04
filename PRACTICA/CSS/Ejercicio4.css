@@ -41,6 +41,7 @@ body{
      top: 200px;
     left: 300px;
     border: 2px solid black;
+    position: absolute;
 }
 
 .fijo{

@@ -3,3 +3,11 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+
+.absoluto{
+     background-color: rgb(101, 212, 240);
+     top: 200px;
+    left: 300px;
+    border: 2px solid black;
+}
