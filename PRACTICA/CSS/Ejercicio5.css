@@ -1,21 +1,29 @@
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
-
-.absoluto{
-     background-color: rgb(101, 212, 240);
-     top: 200px;
-    left: 300px;
-    border: 2px solid black;
+.titulo {
+  position: relative;
+  background: red;
+  color: white;
+  padding: 10px;
+  margin: 10px;
+  align-items: center;
+  justify-content: center;
+}
+.absoluto {
+  background-color: rgb(101, 212, 240);
+  top: 200px;
+  left: 300px;
+  border: 2px solid black;
 }
 
 .contenedor {
   width: 90%;
-    height: 500px;
-    border: 2px solid rgb(212, 122, 122);
-    margin: 10% auto;
-
+  height: 500px;
+  border: 2px solid rgb(212, 122, 122);
+  margin: 10% auto;
+  position: relative;
 }
