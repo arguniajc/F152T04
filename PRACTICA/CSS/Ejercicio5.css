@@ -11,3 +11,11 @@
     left: 300px;
     border: 2px solid black;
 }
+
+.contenedor {
+  width: 90%;
+    height: 500px;
+    border: 2px solid rgb(212, 122, 122);
+    margin: 10% auto;
+
+}
