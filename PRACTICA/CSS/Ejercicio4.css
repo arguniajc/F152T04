@@ -5,18 +5,18 @@
 }
 
 .contenedor{
-    width: 70%;
+    width: 90%;
     height: 500px;
     border: 2px solid rgb(212, 122, 122);
-    margin: 80% auto;
+    margin: 10% auto;
 }
 
 body{
     background-color: aqua;
 }
 .posicion{
-    width: 150px;
-    height: 150px;
+    width: 100px;
+    height: 1o0px;
     font-size: 1.3rem;
     line-height: 100px;
     text-align: center;
@@ -46,6 +46,6 @@ body{
 .fijo{
     background-color: rgb(196, 12, 156);
     position: fixed;
-     top: 200px;
-    left: 300px;
+     top: 10px;
+    left: 20px;
 }
